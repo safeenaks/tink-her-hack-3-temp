@@ -78,15 +78,17 @@ Edit
 python manage.py runserver
 
 # Screenshots (Add at least 3)
-Screenshot 2025-02-09 095536
+![Screenshot1](![Screenshot 2025-02-09 103909](https://github.com/user-attachments/assets/85c382e4-f4bd-425e-b084-2bb4bd776190)
+)
+
 
 
 ![Screenshot2](![Screenshot 2025-02-09 095536](https://github.com/user-attachments/assets/b3a7b720-c93b-49ab-8328-de53849f1948)
 )
-*Add caption explaining what this shows*
+this is how chatbot work!
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](![Screenshot 2025-02-09 103935](https://github.com/user-attachments/assets/7af9c2c6-dad9-49c8-9ccc-c970f5ed11bf)
+)
 
 # Diagrams
 +----------------+      +--------------------+      +---------------------+

@@ -81,7 +81,8 @@ python manage.py runserver
 Screenshot 2025-02-09 095536
 
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](![Screenshot 2025-02-09 095536](https://github.com/user-attachments/assets/b3a7b720-c93b-49ab-8328-de53849f1948)
+)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
